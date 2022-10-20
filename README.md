@@ -24,22 +24,22 @@ Bot is a powerful moderation [Node.js](https://nodejs.org) bot providing utility
 
 # Table of Contents
 
-- [Features & Commands](#Features & Commands)
-    - [Fun Commands](##Fun Commands)
-    - [Utility Commands](##Utility Commands)
-    - [Miscellaneous Commands ](##Miscellaneous Commands)
+- [Commands](#Commands)
+    - [Fun](##Fun)
+    - [Utility](##Utility)
+    - [Miscellaneous](##Miscellaneous)
 - [Installation](#Installation)
 - [Contributotors](#Contributors)
 
 <br>
 <br>
 
-# Features & Commands
+# Commands
 > Note: The prefix is '+'
 
 <br>
 
-##  Fun Commands
+##  Fun
 
 | Commands | Use |
 | --- | --- |
@@ -56,7 +56,7 @@ Bot is a powerful moderation [Node.js](https://nodejs.org) bot providing utility
 
 <br>
 
-## Utility Commands
+## Utility
 
 | Commands | Use |
 | --- | --- |
@@ -69,7 +69,7 @@ Bot is a powerful moderation [Node.js](https://nodejs.org) bot providing utility
 
 <br>
 
-## Miscellaneous Commands
+## Miscellaneous
 
 | Commands | Use |
 | --- | --- |
