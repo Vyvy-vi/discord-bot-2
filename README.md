@@ -25,9 +25,9 @@ Bot is a powerful moderation [Node.js](https://nodejs.org) bot providing utility
 # Table of Contents
 
 - [Commands](#Commands)
-    - [Fun](##Fun)
-    - [Utility](##Utility)
-    - [Miscellaneous](##Miscellaneous)
+    - [Fun](#Fun)
+    - [Utility](#Utility)
+    - [Miscellaneous](#Miscellaneous)
 - [Installation](#Installation)
 - [Contributotors](#Contributors)
 
