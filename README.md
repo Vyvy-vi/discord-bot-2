@@ -21,12 +21,12 @@ Bot is a powerful moderation [Node.js](https://nodejs.org) bot providing utility
 
 # Table of Contents
 
-- [ Features & Commands](#Features-&-Commands)
-    - [ Fun Commands](##Fun-Commands)
-    - [ Utility Commands](##Utility-Commands)
-    - [ Miscellaneous Commands ](##Miscellaneous-Commands)
-- [ Installation](#Installation)
-- [ Contributotors](#Contributotors)
+- [Features & Commands](#Features-&-Commands)
+    - [Fun Commands](##Fun-Commands)
+    - [Utility Commands](##Utility-Commands)
+    - [Miscellaneous Commands ](##Miscellaneous-Commands)
+- [Installation](#Installation)
+- [Contributotors](#Contributors)
 
 <br>
 <br>
