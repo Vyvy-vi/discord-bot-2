@@ -1,7 +1,7 @@
 ##  Fun Commands
 
-| Commands | Use | s |
-| --- | --- | --- |
+| Commands | Use |
+| --- | --- |
 | `google[content]` | fetch 9-10top results from google e.g. !google alanwalker songs, true | 
 | `say` | Whatever you ask it |
 | `8ball` | Starts 8ball |
