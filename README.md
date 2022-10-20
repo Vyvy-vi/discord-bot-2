@@ -1,3 +1,6 @@
+<br>
+<br>
+
 <div align ="center"><a href="https://gdsc.community.dev/lovely-professional-university-jalandhar/"> <img src ="assets/discord-bot.svg" width="546"> </a></div>
 
 <br>
