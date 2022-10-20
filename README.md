@@ -1,2 +1,2 @@
-<div align ="center"> <img src ="discord-bot.svg" width="4000"> </div>
+<div align ="center"> <img src ="discord-bot.svg" width="3000"> </div>
 # gdsc-Discord-bot
