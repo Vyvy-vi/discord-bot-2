@@ -29,7 +29,7 @@ Bot is a powerful moderation [Node.js](https://nodejs.org) bot providing utility
     - [Utility](#Utility)
     - [Miscellaneous](#Miscellaneous)
 - [Installation](#Installation)
-- [Contributotors](#Contributors)
+- [Contributors](#Contributors)
 
 <br>
 <br>
