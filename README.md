@@ -151,7 +151,7 @@ git push origin my-new-feature
 			<img src="assets/hacktober.svg"  height="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/gdsclpu/discord-bot">
 		<img src="assets/github.svg" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a style="margin-left: 10px;" target="_blank" href="https://discord.gg/jd2aNCAHrr">
+        <a style="margin-left: 10px;" target="_blank" href="https://discord.gg/wAMrcmZdRZ">
 			<img src="assets/discord.svg" height="40"
             width ="40"></a>
       </div>
